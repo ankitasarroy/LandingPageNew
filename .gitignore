@@ -1,1 +1,4 @@
 .DS_Store
+.DS_Store
+node_modules/ # example - add what you need
+*.log # example - add what you need
